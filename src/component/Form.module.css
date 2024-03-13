@@ -1,0 +1,30 @@
+.todoform{
+   background-color: white; 
+   border-radius: 8px;
+   padding: 20px;
+   width: 450px;
+   margin: 0 auto; 
+   box-shadow: 0 4px 6px rgb(0, 0, 0, 0.1); 
+   margin-top: 50px;
+   display: flex;
+}
+
+.input{
+   width: 100%;
+   display: block;
+   outline: none;
+   border: none;
+   font-size: 16px;
+}
+
+.fbutton{
+margin-top: 20px;
+padding: 2% 5%;
+font-size: 20px;
+cursor: pointer;
+background-color: rgb(107, 119, 160);
+border-radius: 5px;
+border: none;
+color: white;
+display: inline-block;
+}
